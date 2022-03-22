@@ -1,7 +1,5 @@
 package padroes.observer;
 
-import java.io.ObjectInputStream.GetField;
-
 public class AniversarioSurpresa {
 
 	public static void main(String[] args) {
